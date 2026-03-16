@@ -1,0 +1,7 @@
+The idea is to build a native app for Android WearOS that shows the schedule given in the ETHZ EduApp web app (https://eduapp.ethz.ch).
+
+You use OAuth to login. How to do this on a watch?
+
+- Need to show schedule in a list format, with different colors depending on activity type (V = Vorlesung, U = Ubung, ...)
+- Need to optionally notify imminent start of a lecture
+- EduApp already provides json endpoints, just check using the browser
